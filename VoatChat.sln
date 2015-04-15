@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoatChat", "VoatChat\VoatChat.csproj", "{357EE58D-C1F1-40E5-9FF6-C858CA04D15F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D84A4660-5A47-4B15-82B0-B9695A455376}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FECE6E22-1B2A-4F22-9396-C13C03D9523C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357EE58D-C1F1-40E5-9FF6-C858CA04D15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357EE58D-C1F1-40E5-9FF6-C858CA04D15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357EE58D-C1F1-40E5-9FF6-C858CA04D15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357EE58D-C1F1-40E5-9FF6-C858CA04D15F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
