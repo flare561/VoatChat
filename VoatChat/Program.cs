@@ -16,7 +16,6 @@ namespace VoatChat
     {
         //TODO Error handling in IRC connection
         //TODO nickserv registration 
-        //TODO add to github, send updates to https://voat.co/user/moe
         static Config conf = new Config();
         static IHubProxy hubProx;
         static IrcClient client;
